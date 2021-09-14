@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: PUBLIC
+    database: DEMO_DB
+    tables:
+      - name: STRIPE_PAYMENTS
